@@ -1,2 +1,1 @@
-Name: Sean Anthony R. Alpe
-Section: 9 - Platinum
+9platinumcs3
