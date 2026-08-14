@@ -2,7 +2,7 @@ year=int(input("Enter your birth year: "))
 if year<1900:
     print("Invalid year, it should not be earlier than 1900.")
 if year>=1900:
-    zodiac = (year - 1900) % 12
+    zodiac = (year-1900) % 12
     if zodiac == 0:
         print("Your Chinese Zodiac sign is: Monkey (猴 / Hóu)")
     elif zodiac == 1:
@@ -20,10 +20,11 @@ if year>=1900:
     elif zodiac == 7:
         print("Your Chinese Zodiac sign is: Goat (羊 / Yáng)")
     elif zodiac == 8:
-        print("Your Chinese Zodiac sign is: Rooster (鸡 / Jī")
+        print("Your Chinese Zodiac sign is: Rooster (鸡 / Jī)")
     elif zodiac == 9:
         print("Your Chinese Zodiac sign is: Dog (狗 / Gǒu)")
     elif zodiac == 10:
         print("Your Chinese Zodiac sign is: Pig (猪 / Zhū)")
     elif zodiac == 11:
         print("Your Chinese Zodiac sign is: Rat (鼠 / Shǔ)")
+
