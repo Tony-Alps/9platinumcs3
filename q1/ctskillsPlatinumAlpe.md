@@ -3,7 +3,7 @@
 **Name:** Sean Anthony R. Alpe
 **Section:** 9 - Platinum
 **Last Name:** Alpe
-**Date:** Date Completed
+**Date:** 08/13/26
 ---
 
 ## Step 1: Identify the Big Problem
