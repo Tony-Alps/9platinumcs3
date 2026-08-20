@@ -3,6 +3,7 @@
 **Name:** Sean Anthony R. Alpe
 
 **Section:** 9 - Platinum
+
 ---
 # 1st Quarter
 ## Activities
@@ -11,4 +12,4 @@
 ### Chinese Zodiac
 [View my Chinese Zodiac](q1/zodiacPlatinumAlpe.md)
 ### Object Oriented Programming
-[View my OOP Activity0]
+[View my OOP Activity]
