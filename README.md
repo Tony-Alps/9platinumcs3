@@ -1,6 +1,7 @@
 # Computer Science 3 Portfolio
 ## Student Information
 **Name:** Sean Anthony R. Alpe
+
 **Section:** 9 - Platinum
 ---
 # 1st Quarter
