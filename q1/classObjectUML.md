@@ -15,7 +15,7 @@
 | play() | Plays the song that is next or the song thats paused | 
 | delete_song(Song_Title:string) | Deletes the selected song if found in the playlist | 
 ## Class Diagram 
-![Class Diagram](q1/images/Screenshot 2026-09-03 125917)
+[Class_Diagram](q1/images/Screenshot2026-09-03125917.png)
 ## Design Explanation 
 ### Why did you choose this class? 
 I chose this class since I like playing music in my earpods during free time. It also somewhat helps me concentrate.
