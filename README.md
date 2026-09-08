@@ -16,4 +16,5 @@
 ### OOP Act
 [View my OOPAct](q1/classObjectUML.md)
 ### OOP Act Part II
-[View my OOP Act Part II](q1/classImplementation.py)
+[View my class Object](q1/classObjectUML.md)
+[View my class Implementation](q1/classImplementation.py)
