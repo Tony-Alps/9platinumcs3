@@ -6,7 +6,7 @@
 |---|---|---| 
 | Title | string | The song's title | 
 | Singer | string | The person that sang the song | 
-| Duration | int | The length of the entire song/track | 
+| Song_code | int | A one time code that brings you to the exact song and time| 
 | Producer | string | The song's producer | 
 ## Methods 
 | Method | Description | 
@@ -24,4 +24,16 @@ I chose this class since I like playing music in my earpods during free time. It
 The property that is the most important  is the title, since the user can find songs witha  title but it will be extremely hard without a title.
 
 ### Which method is the most useful? Why? 
-Play song, you can play a song without needing to add it or deelte it first, therefore I will be able to play songs even when not logged in 
+Play song, you can play a song without needing to add it or delete it first, therefore I will be able to play songs even when not logged in 
+
+## Design Revision
+Changes from my previous design:
+- replace Duration with Song_code
+
+| Attribute | Data Type | Visibility | Why Public/Private? |
+|---|---|---|---|
+| Title | string | Public | Public since a title contains data that is needed for a user to find it|
+| Singer | string | Public | Public since a Singer relies on the released songs for their fanbase and the singers can also be used to search for the songs| 
+|  Song_code | int | Private | Private since this is a one time link that can be used to either share or receive songs |
+| Producer | string | Public | Public since producers are also a good way to search songs |
+
