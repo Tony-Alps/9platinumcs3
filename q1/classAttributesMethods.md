@@ -32,3 +32,4 @@ The change_code method changes the code
 ### How did your two objects demonstrate that instances are independent?
 It demonstrated that instances are independent by only letting me change on attribute, not the attributes of both
 ### What is the difference between your class diagram and your object diagram?
+A difference i noticed was that the class diagram was describing the things to put there as objects, while the objects diagram was actually showing the attributes of the objects
