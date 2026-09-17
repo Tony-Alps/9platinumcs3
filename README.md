@@ -6,6 +6,15 @@
 
 ---
 # 1st Quarter
+## Documentation
+[View my Zodiac Documentation](q1/images/Zodiac_screenshot.png)
+[View my Zodiac test run](q1/images/Zodiac_screenshot2.png)
+[View my class Diagram #01](q1/images/classDiagram.png)
+[View my class Diagram #02](q1/images/classDiagramSG5.png)
+[View my class test run](q1/images/classTestRun.png)
+[View my object diagram](q1/images/objectDiagram.png)
+[View my class Relationship](q1/images/classRelationshipsDiagram.png)
+
 ## Activities
 ### Computational Thinking Skills
 [View my Computational Thinking Skills](q1/ctskillsPlatinumAlpe.md)
@@ -21,3 +30,8 @@
 [View my class Implementation](q1/classImplementation.py)
 
 [View my class Attributes Methods](q1/classAttributesMethods.md)
+### OOP Act Part III
+[View my new class Relationships](q1/classRelationships.md)
+
+[View my my class Relatioships code](q1/classRelationships.py)
+
