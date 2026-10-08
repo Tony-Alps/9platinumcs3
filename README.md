@@ -35,3 +35,12 @@
 
 [View my my class Relatioships code](q1/classRelationships.py)
 
+# 2nd Quarter
+## Documentation
+
+
+## Activities
+
+### Encapsulation  
+[View my sg8_encapsulation.py](q2/sg8_encapsulation.py)
+
