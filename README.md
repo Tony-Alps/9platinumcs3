@@ -37,7 +37,7 @@
 
 # 2nd Quarter
 ## Documentation
-
+[View my SG8 Activity 3 Documentation](q2/images/SG8_encapsulation_documentation.png)
 
 ## Activities
 
