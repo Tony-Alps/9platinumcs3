@@ -43,4 +43,4 @@
 
 ### Encapsulation  
 [View my sg8_encapsulation.py](q2/sg8_encapsulation.py)
-
+[View my sg9_inheritance.py](q2/sg9_inheritance.py)
