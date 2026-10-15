@@ -1,3 +1,5 @@
+
+#Parent class
 class Publication:
     def __init__(self, title, author):
         self._title = title
@@ -14,12 +16,12 @@ class Publication:
 
     def set_author(self, author):
         self._author = author
-
+        #Displays the title and author
     def display_info(self):
         print(f"Title: {self._title}")
         print(f"Author: {self._author}")
 
-
+#Child Class 1
 class Book(Publication):
     def __init__(self, title, author, number_of_pages):
         super().__init__(title, author)
@@ -35,10 +37,11 @@ class Book(Publication):
             self._number_of_pages = number_pages
 
     def display_info(self):
-        super().display_info()
+        print(f"Title: {self._title}")
+        print(f"Author: {self._author}")
         print(f"Number of pages: {self._number_of_pages}")
 
-
+#Child Class 2 
 class Magazine(Publication):
     def __init__(self, title, author, issue_number):
         super().__init__(title, author)
@@ -54,7 +57,8 @@ class Magazine(Publication):
             self._issue_number = issue_number
 
     def display_info(self):
-        super().display_info()
+        print(f"Title: {self._title}")
+        print(f"Author: {self._author}")
         print(f"Issue number: {self._issue_number}")
 
 
