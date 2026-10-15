@@ -8,11 +8,17 @@
 # 1st Quarter
 ## Documentation
 [View my Zodiac Documentation](q1/images/Zodiac_screenshot.png)
+
 [View my Zodiac test run](q1/images/Zodiac_screenshot2.png)
+
 [View my class Diagram #01](q1/images/classDiagram.png)
+
 [View my class Diagram #02](q1/images/classDiagramSG5.png)
+
 [View my class test run](q1/images/classTestRun.png)
+
 [View my object diagram](q1/images/objectDiagram.png)
+
 [View my class Relationship](q1/images/classRelationshipsDiagram.png)
 
 ## Activities
@@ -43,4 +49,6 @@
 
 ### Encapsulation  
 [View my sg8_encapsulation.py](q2/sg8_encapsulation.py)
+
+### Inheritance
 [View my sg9_inheritance.py](q2/sg9_inheritance.py)
