@@ -52,3 +52,8 @@
 
 ### Inheritance
 [View my sg9_inheritance.py](q2/sg9_inheritance.py)
+
+### Polymorphism
+[View my Activity 1](q2/Activity1_polymorphism.py)
+
+[View my Activity 2](q2/Activity2_polymorphism.py)
